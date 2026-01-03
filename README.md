@@ -25,8 +25,7 @@
 <p align="left">
 Information Systems student.<br>
 Focused on data analysis, Python<br>
-Learning trading, business, and strategy.<br>
-Building skills. Staying disciplined. No excuses.
+Learning trading and business strategy.<br>
 </p>
 
 ###
