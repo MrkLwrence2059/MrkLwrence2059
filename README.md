@@ -15,7 +15,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MrkLwrence2059.MrkLwrence2059" />
+  <img src="https://komarev.com/ghpvc/?username=MrkLwrence2059&style=flat-square&color=grey" />
 </div>
 
 ###
@@ -68,5 +68,11 @@ Building skills. Staying disciplined. No excuses.
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MrkLwrence2059&theme=dark" height="220" />
+  <img src="https://img.shields.io/github/followers/MrkLwrence2059?label=Followers&style=for-the-badge&color=black" />
+<img src="https://img.shields.io/github/stars/MrkLwrence2059?label=Stars&style=for-the-badge&color=black" />
+</div>
+
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MrkLwrence2059&theme=dark" height="210" />
 </div>
