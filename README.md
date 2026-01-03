@@ -24,7 +24,7 @@
 
 <p align="left">
 Information Systems student.<br>
-Focused on data analysis, Python, and ethical hacking.<br>
+Focused on data analysis, Python<br>
 Learning trading, business, and strategy.<br>
 Building skills. Staying disciplined. No excuses.
 </p>
